@@ -12,3 +12,6 @@ The function ensures that phone numbers are correctly formatted and validated us
 ✅ Validates phone numbers based on the provided country code  
 ✅ Returns phone numbers in standardized **E.164 format**  
 ✅ Handles incorrect or malformed inputs gracefully  
+
+## References
+> [Supporting international phone numbers at Toast](https://technology.toasttab.com/entry/supporting-international-phone-numbers-at-toast/)
